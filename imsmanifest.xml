@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6qigKqUSJqM" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Ian Cadiong - Interactive CV</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Ian_Cadiong_-_Interactive_CV_ORG">
+    <organization identifier="Ian_Cadiong_-_Interactive_CV_ORG">
+      <title>Ian Cadiong - Interactive CV</title>
+      <item identifier="CV_SCORM_SCO" isvisible="true" identifierref="__6qigKqUSJqM_RES">
+        <title>Ian Cadiong - Interactive CV</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6qigKqUSJqM_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5fjGGgb8bEI.png" />
+      <file href="mobile/66c5xovEuEr.png" />
+      <file href="mobile/6SvcwKvSv38.png" />
+      <file href="mobile/6ZYXkcCNh3W.png" />
+      <file href="mobile/5z3eSdvhqVh.png" />
+      <file href="mobile/5rPywIU7wZ2.png" />
+      <file href="mobile/5mHe7606RKo.png" />
+      <file href="mobile/6XE7vEWVTqc.png" />
+      <file href="story_content/69dj6dOz5eJ_44100_48_0.mp3" />
+      <file href="mobile/5lYhEauyuuL.png" />
+      <file href="mobile/5qg8DpwziQ2.png" />
+      <file href="mobile/68n5JKCFQEC.png" />
+      <file href="mobile/63ZG2X5Gkky.png" />
+      <file href="mobile/65XXN5bO1Mq.png" />
+      <file href="mobile/5sFOYyW4R8e.png" />
+      <file href="mobile/6VbsQCzI8mF.png" />
+      <file href="mobile/6p1tPv1nl7E.png" />
+      <file href="mobile/6rF6VQ1nPIc.png" />
+      <file href="mobile/6YV79caFvak.png" />
+      <file href="mobile/6jwyAFJhQqu.png" />
+      <file href="mobile/5YOUgcLDTKH.png" />
+      <file href="mobile/6YV79caFvak_B-20.png" />
+      <file href="mobile/6jwyAFJhQqu_B-20.png" />
+      <file href="mobile/5YOUgcLDTKH_B-20.png" />
+      <file href="story_content/6oi0W2KacF1_44100_48_0.mp3" />
+      <file href="mobile/5mOV70ORnQL.png" />
+      <file href="mobile/6eMFAkWORys.png" />
+      <file href="mobile/6QCYtLZzTkt.png" />
+      <file href="mobile/6UQYcIKOb3p.png" />
+      <file href="mobile/6GAfkU79IPx.png" />
+      <file href="mobile/6e1YieUpqAf.png" />
+      <file href="mobile/5v5vV2t40iU.png" />
+      <file href="mobile/5cmnoayA9yW.png" />
+      <file href="mobile/62U2hVSBFSV.png" />
+      <file href="mobile/66x3Y4pOuLw.png" />
+      <file href="mobile/60pSdiMDBjK.png" />
+      <file href="mobile/6VY3XF5JHaO.png" />
+      <file href="mobile/65vNgvZvplX.png" />
+      <file href="story_content/6nglE7y7xdo_44100_48_0.mp3" />
+      <file href="mobile/5pYK3ZALZzo.png" />
+      <file href="mobile/66HEIRhz7tJ.png" />
+      <file href="mobile/69EFIR1Fd8F.png" />
+      <file href="mobile/6nLMN17sQ91.png" />
+      <file href="mobile/6bgYJpYgCPV.png" />
+      <file href="mobile/63HOMSyWYJ6.png" />
+      <file href="mobile/63a4ndA4Wz1.png" />
+      <file href="mobile/61mZBbV67H5.png" />
+      <file href="mobile/61mZBbV67H5_RB2D5DD.png" />
+      <file href="story_content/6ZlOdp6GRiW_44100_48_0.mp3" />
+      <file href="mobile/6b86W7SeOPz.png" />
+      <file href="mobile/6bTbcwQ4nbm.png" />
+      <file href="mobile/6L012mlIT67.png" />
+      <file href="mobile/5dnKOMHe3zN.png" />
+      <file href="mobile/60USsiiUPaM.png" />
+      <file href="mobile/5qcCI8LlZom.png" />
+      <file href="mobile/69OrlfMA0e6.png" />
+      <file href="mobile/5r3FHQrV3OR.png" />
+      <file href="story_content/66bct8WvYV8_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5qYQ8stAWsi.js" />
+      <file href="html5/data/js/60zoaObhhEh.js" />
+      <file href="html5/data/js/65roTbqsFJA.js" />
+      <file href="html5/data/js/6GUQBNeWjG1.js" />
+      <file href="html5/data/js/6k99zeUhqbH.js" />
+      <file href="html5/data/js/6XRWya879DN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
